@@ -1,0 +1,15 @@
+
+grossam2
+	char_count: [352, 411, 485, 410, 821, 432]
+	correctness: [1, 2, 2, 2, 2, 3]
+	overall_score: 1558
+lookea
+	char_count: [424, 553, 578, 543, 918, 365]
+	correctness: [1, 2, 2, 2, 2, 3]
+	overall_score: 1840
+
+
+Results:
+------------------------
+1. grossam2-1558
+2. lookea-1840
